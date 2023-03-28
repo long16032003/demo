@@ -95,7 +95,7 @@ nav.section-banner{
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    height: 427px;
+    /* height: 427px; */
 }
 
 
@@ -116,7 +116,7 @@ ul{
 }
 .menu>li>a{
     text-transform: uppercase;
-    padding: 14px 13px;
+    padding: 14px 9px;
 }
 
 .menu>li{
